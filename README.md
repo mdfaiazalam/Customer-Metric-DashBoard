@@ -18,7 +18,7 @@ Created a Customer metric dashboard(sales and profit) where I have analyzed prof
 * Regional and category breakdowns.
 ## Key Metrics
 #### KPIs :
-*Total Sales
+* Total Sales
 * Total Profit
 * Total Customers
 * Target
