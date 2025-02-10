@@ -9,12 +9,12 @@ Created a Customer metric dashboard(sales and profit) where I have analyzed prof
 * Sales By Region
 * Sales ib DIfferent Countries
 * Customer Saltisfaction Score
-# KPIs and Slicers Used 
-** KPIs :
+## KPIs and Slicers Used 
+#### KPIs :
 *Total Sales
 * Total Profit
 * Total Customers
 * Target
-** Slicers:
+#### Slicers:
 * Quarter
 * Months
