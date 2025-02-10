@@ -9,7 +9,14 @@ Created a Customer metric dashboard(sales and profit) where I have analyzed prof
 * Sales By Region
 * Sales ib DIfferent Countries
 * Customer Saltisfaction Score
-## KPIs and Slicers Used 
+## Features
+* Interactive Dashboard:
+* Dynamic charts and graphs.
+* Visualizations:
+* Line Charts, Bar Charts, Column Charts, Funnel Charts, Map Charts
+* Sales and profit trends by year, region, and product.
+* Regional and category breakdowns.
+## Key Metrics
 #### KPIs :
 *Total Sales
 * Total Profit
@@ -18,3 +25,6 @@ Created a Customer metric dashboard(sales and profit) where I have analyzed prof
 #### Slicers:
 * Quarter
 * Months
+## Tools and Technology
+* Power BI
+* Power Query
